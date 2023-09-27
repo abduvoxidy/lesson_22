@@ -1,1 +1,6 @@
 git branch -M branchName --> branch nomini belgilab olish
+
+git branch --> branchlar listini ko'rish
+git checkout == (git switch)
+git checkout -b branchName --> branch yaratish   
+
